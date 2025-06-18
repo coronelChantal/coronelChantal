@@ -1,8 +1,8 @@
 <h1 align="center"> Hola 👋 mi nombre es Chantal
 <h1/>
-<!--
-**coronelChantal/coronelChantal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<h2 align="center"> Soy Técnica en Programación
+</h2>
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
