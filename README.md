@@ -1,5 +1,5 @@
-## Hola, soy Chantal Coronel 👋
-
+<h1 align="center"> Hola 👋 mi nombre es Chantal
+<h1/>
 <!--
 **coronelChantal/coronelChantal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
