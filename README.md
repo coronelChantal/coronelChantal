@@ -19,41 +19,49 @@
 - 🤔 Me encuentro abierta a oportunidades laborales que me permitan desarrollarme profesionalmente en el mundo de la programación.
 <br><br>
 
-## Tech Stack 💻🔧
+## Tech Stack 💼
 <h4> Lenguajes </h4>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-68217A?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-002244?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-1572B6?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-7AB93C?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-FFC135?style=for-the-badge&logo=html&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-C22127?style=for-the-badge&logo=css&logoColor=white"/>
 </p>
 
 <h4> Bases de datos </h4>
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-337AB7?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-005571?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
 </p>
 
 <h4> Otras Herramientas </h4>
 <p align="left">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-6935D3?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-0078D4?style=for-the-badge&logo=eclipse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CodeBLocks-2B579A?style=for-the-badge&logo=codeblocks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code::Blocks-2B579A?style=for-the-badge&logo=codeblocks&logoColor=white"/>
   <br>
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
 </p>
 
-## Contacto 📞
-<span>
-  <a herf=www.linkedin.com/in/coronelchantal>
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> 
+## Contacto 💌
 
-  <a herf="mailto:coro.aylen@gmail.com">
+<span>
+  <a href="https://www.linkedin.com/in/coronelchantal" target: "_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> 
+  </a>
+  
+  <a href="mailto:coro.aylen@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </span>
+
+<!--
+iconos: https://simpleicons.org
+gif: https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC
+-->
